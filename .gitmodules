@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "corMLPE"]
+	path = corMLPE
+	url = https://github.com/wpeterman/cormlpe
 [submodule "multiScaleR"]
 	path = multiScaleR
 	url = https://github.com/wpeterman/multiscaler
