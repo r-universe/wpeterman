@@ -5,6 +5,9 @@
 [submodule "corMLPE"]
 	path = corMLPE
 	url = https://github.com/wpeterman/cormlpe
+[submodule "landgraph"]
+	path = landgraph
+	url = https://github.com/wpeterman/landgraph
 [submodule "multiScaleR"]
 	path = multiScaleR
 	url = https://github.com/wpeterman/multiscaler
