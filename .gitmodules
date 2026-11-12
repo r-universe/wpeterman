@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/wpeterman/wpeterman.r-universe.dev
 	branch = HEAD
+[submodule "ResistanceGA2"]
+	path = ResistanceGA2
+	url = https://github.com/wpeterman/ResistanceGA2
 [submodule "corMLPE"]
 	path = corMLPE
 	url = https://github.com/wpeterman/cormlpe
@@ -11,3 +14,6 @@
 [submodule "multiScaleR"]
 	path = multiScaleR
 	url = https://github.com/wpeterman/multiscaler
+[submodule "terradish"]
+	path = terradish
+	url = https://github.com/wpeterman/terradish
